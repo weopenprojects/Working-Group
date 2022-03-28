@@ -13,7 +13,7 @@
 ## 资料库 📁
 
 - [腾源会介绍](https://drive.google.com/file/d/17dTuenOz9VqjhsvPjgxT7o54WWTnujUE/view)
-- 社区 LOGO
+- [社区 LOGO](https://github.com/weopenprojects/Working-Group/blob/main/materials/%E8%85%BE%E6%BA%90%E4%BC%9Alogo.ai)
 
 ## 联系我们 📩
 
